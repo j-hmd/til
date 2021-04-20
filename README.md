@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
 
-_1 TILs and counting..._
+_2 TILs and counting..._
 
 ---
 
@@ -28,6 +28,7 @@ _1 TILs and counting..._
 
 ### Git
 
+- [How to find and see a commit diff](git\find-and-see-commit.md)
 - [Rename Branch](git\rename-branch.md)
 
 ### Linux
